@@ -18,6 +18,7 @@ public class Application {
 			switch(data[i][3]) {
 			case"openBrowser":
 				mtd.openBrowser();
+				//kdlfjd
 				break;
 			case"maxWindow":
 				mtd.maximizeBrowserWindow();
