@@ -19,7 +19,7 @@ public class Application {
 			case"openBrowser":
 				mtd.openBrowser();
 				//kdlfjdkjkjdhsehflesjfklsj
-				//kdsfjkldsjfklsdjfkljdsklgjdskl
+				//kdsfjkldsjfklsdjfkljdsklgjdsklk
 				//dsklmfmkdfksdkmklfsmkl
 				break;
 			case"maxWindow":
